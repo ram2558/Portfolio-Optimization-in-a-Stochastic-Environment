@@ -1,0 +1,8 @@
+Portfolio Optimization
+Project: Portfolio Optimization in a Stochastic Environment
+Goal: Optimize a portfolio's performance by balancing investments in stocks, options, and money market accounts.
+Features:
+Build a model to simulate portfolio growth under stochastic stock and interest rate conditions.
+Implement optimization techniques to maximize portfolio returns while minimizing risk.
+Analyze results using risk metrics (e.g., Sharpe ratio, Value-at-Risk).
+Tools: Python, SciPy, PyPortfolioOpt.
